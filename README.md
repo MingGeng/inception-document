@@ -1,13 +1,14 @@
 # Inception简介
-**Inception** 是一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具。由[去哪儿网 http://www.qunar.com](http://www.qunar.com)共享、开源而来。
+**Inception** 是一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具。最初由[去哪儿网 http://www.qunar.com](http://www.qunar.com)共享、开源而来。
 
 本项目是 **Inception** 的手册部分。
 
-项目地址：[Inception](https://github.com/mysql-inception/inception)
 
+## 原作者已经删除了源码,和说明文档, 这里是幸存的分支, 不定期进行维护中...
+项目地址：[Inception](https://github.com/MingGeng/inception)
 ## 在线文档
 
-[Inception使用规范及说明文档](http://mysql-inception.github.io/inception-document/)
+[Inception使用规范及说明文档](http://minggeng.github.io/inception-document/)
 
 ## 目录
 
